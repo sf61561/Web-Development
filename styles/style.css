@@ -1,0 +1,26 @@
+body{
+    color:#FFF8F3;
+    font-family: 'Open Sans';
+}
+header{
+    margin-top: 2%;
+}
+header>h1{
+    display: inline;
+    letter-spacing: 0%;
+    margin-left: 10%;
+    color: #181818;
+}
+header>nav{
+    display: inline;
+    margin-left: 60%;
+}
+header>nav>ul
+{
+    display: inline;
+    color: #474747;
+}
+main{
+    color:black;
+    display: inline;
+}
